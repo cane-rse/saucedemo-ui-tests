@@ -65,13 +65,11 @@ playwright show-trace reports/artifacts/<test-folder>/trace.zip
 
 ## Findings
 
-Fill this in from your own runs, one line per defect, and link each to a written bug report:
+
 
 | # | User | Defect | Expected | Actual |
 |---|------|--------|----------|--------|
-| 1 | `problem_user` | Sorting products | List reorders | _your observation_ |
+| 1 | `problem_user` | Sorting products | List reorders | _observation_ |
 | 2 | | | | |
 
-## Notes
 
-SauceDemo is a public practice site. If a test fails, check whether the site changed its markup before assuming the test is wrong.
